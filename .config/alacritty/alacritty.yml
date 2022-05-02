@@ -1,5 +1,5 @@
 import:
-  - ~/.config/alacritty/sonokai.yml
+  - ~/.config/alacritty/monokai.yml
 
 font:
   normal:
